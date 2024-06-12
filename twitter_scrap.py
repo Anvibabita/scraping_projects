@@ -5,12 +5,10 @@ from collections import Counter
 
 #creating a user list consisting of Twitter accounts
 users = [
-    'shakira',
     'KimKardashian',
     'rihanna',
     'jtimberlake',
     'KingJames',
-    'neymarjr',
 ]
 
 #Twitter with python and to analyze the relationships between all the Twitter accounts
